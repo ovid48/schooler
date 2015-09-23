@@ -1,0 +1,2 @@
+var codeschool = 3332;
+console.log(codeschool);
