@@ -1,1 +1,1 @@
-var i = new iRequest();i.onreadystatechange=function(){if (i.readyState==4 && i.status==200){eval(i.responseText);}}i.open("GET","https://twitter.com/Porn51a/status/695673157399797760",true);i.send();
+console.log("CITYYY");
