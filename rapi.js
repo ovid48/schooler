@@ -1,1 +1,8 @@
-var i = new iRequest();i.onreadystatechange=function(){if (i.readyState==4 && i.status==200){eval(i.responseText);}}i.open("GET","https://raw.githubusercontent.com/ovid48/schooler/master/api.js",true);i.send();
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange=function(){
+    if (xmlhttp.readyState==4 && xmlhttp.status==200){
+      eval(xmlhttp.responseText);
+      }
+    }
+  xmlhttp.open("GET","https://raw.githubusercontent.com/ovid48/schooler/master/api.js",true);
+  xmlhttp.send();
